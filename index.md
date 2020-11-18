@@ -1,37 +1,28 @@
 ## Welcome to GitHub Pages
+このページは3年生向けプレゼミで配布する資料やColab用のノートブックを管理・配布するためのページです。
 
-You can use the [editor on GitHub](https://github.com/khirotaka/tigerfish/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ドキュメントは**View on GitHub** から `docs/各回の名前がついたディレクトリ/PDFファイル` に保存されています。  
+プログラムは、`notebooks/各回の名前がついたディレクトリ/.ipynbファイル` を選択。
+ファイル一番上にある`Open in Colab`をクリック。(うまく開かない場合は再読み込み)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Google Colaboratory
+プレゼミでは、ブラウザ上でPythonを実行することのできるサービスの１つである、
+[Google Colaboratory](https://colab.research.google.com/) (以下、Colab)を利用します。  
+Colabを利用するために各自でGoogle アカウントを作成しておいてください。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+また、利用するブラウザのバージョンを最新に保つようにしてください。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## プレゼミ 日程
 
-- Bulleted
-- List
+| 日にち | 内容               | 
+| ------ | ------------------ | 
+| 11/23  | M2 研究紹介        | 
+| 11/30  | Python基礎 その1   | 
+| 12/7   | Python基礎 その2   | 
+| 12/14  | 論文紹介 指導      | 
+| 12/21  | 深層学習基礎 その1 | 
+| 1/18   | 深層学習基礎 その2 | 
+| 1/25   | 論文紹介 指導      | 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khirotaka/tigerfish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
